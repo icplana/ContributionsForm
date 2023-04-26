@@ -4,6 +4,7 @@ import { FormApp } from "./FormApp"
 
 
 
+
 export const App = () => {
 
     const  { name, 
@@ -22,6 +23,7 @@ export const App = () => {
 
   return (
     <div className="row">
+        <h1 className="text-center mt-5 titleTop">ContribucionesApp</h1>
         <FormApp 
             name = { name }
             surnames={ surnames }

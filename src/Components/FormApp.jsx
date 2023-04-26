@@ -61,7 +61,7 @@ export const FormApp = ({ name, surnames, email, contribution, onSubmitForm, onI
         </form>
             <button
                 onClick={ () => onResetForm() }
-                className="btn btn-primary mt-2"
+                className="btn btn-primary mt-2 resetBtn"
                 >
                 Reset
             </button>

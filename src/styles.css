@@ -1,0 +1,29 @@
+
+
+#root{
+    background: linear-gradient(rgb(212, 251, 251),rgb(125, 145, 255));
+}
+
+
+.btn-info{
+    background: rgb(63, 152, 230);
+    color: white
+}
+
+.btn{
+    font-weight: 400;
+}
+
+.resetBtn{
+    padding-left: .9rem;
+    padding-right: .9rem;
+}
+
+.titleTop{
+    font-size: 3.5rem;
+    font-weight: bold;
+    font-size: 72px;
+    background: -webkit-linear-gradient(#222222, #4257f6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
